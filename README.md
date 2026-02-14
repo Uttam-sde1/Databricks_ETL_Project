@@ -19,7 +19,7 @@ The project follows a **Lakehouse architecture** implemented on Databricks, usin
 - Databricks Jobs for orchestration
 - BI dashboards and Genie for consumption
 
-![Lakehouse Architecture](resources/project_architecture.png)
+![Databricks ETL Lakehouse Architecture](resources/ETL__Project_Architecture.png)
 
 ---
 
