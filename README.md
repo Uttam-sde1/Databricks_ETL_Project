@@ -2,7 +2,7 @@
 # PIPECRAFT Supply-Chain-Driven Sportswear Data Integration using Databricks
 
 ## 📌 Project Overview
-This project simulates a **large-scale FMCG sportswear acquisition**, focusing on how enterprise data teams absorb, standardize, and operationalize data from an acquired brand. It delivers a **production-style data engineering platform** that ingests heterogeneous retail, inventory, and supply-chain datasets and transforms them into a single source of truth for business analytics.
+This project simulates a **large-scale sportswear acquisition**, focusing on how enterprise data teams absorb, standardize, and operationalize data from an acquired brand. It delivers a **production-style data engineering platform** that ingests heterogeneous retail, inventory, and supply-chain datasets and transforms them into a single source of truth for business analytics.
 
 The platform is implemented on a **Databricks Lakehouse**, following a **layered Bronze–Silver–Gold architecture** to ensure data quality, auditability, and scalability. It supports **incremental ingestion, schema evolution, automated orchestration, and analytics-ready datasets, enabling downstream BI reporting and decision-making** across the merged organization.
 
