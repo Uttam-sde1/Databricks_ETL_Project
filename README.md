@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FMCG Post-Merger Data Consolidation using Databricks Lakehouse
 
 ## 📌 Project Overview
@@ -104,3 +105,6 @@ The project follows a **Lakehouse architecture** implemented on Databricks, usin
 ## 📌 Conclusion
 This project demonstrates a **production-style data engineering workflow** using Databricks — from ingestion and transformation to orchestration and analytics — closely resembling real enterprise FMCG data platforms.
 
+=======
+# Databricks_ETL_Project
+>>>>>>> 4c2d7c56ae637f4646329e5a31e74c38e68776a9
